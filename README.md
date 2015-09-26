@@ -13,7 +13,7 @@ p skill_parser.data #=> Array[..]
 
 ## Contributing
 
-1. Fork it ( https://github.com/max-si-m/up_work_skill/fork )
+1. Fork it ( https://github.com/max-si-m/up_work_skills/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
