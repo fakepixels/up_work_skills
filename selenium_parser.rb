@@ -27,8 +27,3 @@ class SkillParser
     @browser.quit
   end
 end
-
-#skill_parser = SkillParser.new ('a'..'k')
-#skill_parser.parse_pages
-#p skill_parser.data
-
